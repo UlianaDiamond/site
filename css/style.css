@@ -150,10 +150,14 @@ span {
     text-align: center;
 }
 
-.btn--fill{
-    background-color: #EEDB6D;
+.newbies__link {
     color: #2C2D35;
+    font-size: 20px;
+    font-weight: 500;
+}
 
+.newbies__link:hover {
+    color: #2C2D35;
 }
 
 .team-title{
